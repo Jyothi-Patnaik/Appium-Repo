@@ -1,6 +1,6 @@
-import allure
+
 import pytest
-from allure_commons.types import AttachmentType
+
 from appium import webdriver
 from appium.options.android import UiAutomator2Options
 from appium.webdriver.common.appiumby import AppiumBy
